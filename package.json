@@ -1,0 +1,12 @@
+{
+  "name": "npm-reserve",
+  "version": "0.1.0",
+  "description": "Reserve your package name",
+  "main": "cli.js",
+  "repository": "git@github.com:bntzio/npm-reserve.git",
+  "author": "Enrique Benitez <hello@bntz.io>",
+  "license": "MIT",
+  "bin": {
+    "npm-reserve": "cli.js"
+  }
+}
